@@ -1,0 +1,10 @@
+.Pokedex {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Pokedex-cards {
+    width: 70%;
+}
+

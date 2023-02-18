@@ -1,0 +1,30 @@
+.PokeCard {
+    background-color: lightgray;
+    margin: 20px 20px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    width: 175px;
+    height: 225px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.PokeCard:hover {
+    transform: scale(1.05);
+}
+
+.PokeCard-name {
+    color: blue;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.PokeCard-data {
+    font-size: 15px;
+    margin: 5px;
+}
+
+.PokeCard-image {
+    width: 100px;
+    margin: 5px;
+}
